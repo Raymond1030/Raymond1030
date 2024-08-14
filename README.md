@@ -2,19 +2,16 @@
 
 ### About my Github
 
-Welcome to visit my repositories!
+Welcome to my GitHub repositories!🤩
 
-I'm Choho Lo, from Hong Kong, China. You can call me **Raymond**.
+I’m Choho Lo, also known as Raymond, from Hong Kong, China🇨🇳🇭🇰.
 
-I'm a GISer!!! My Research Interests focus on Human mobility, Spatio-temporal data mining, GIS and GeoAI.
+As a passionate GIS enthusiast, my research interests are centered on human mobility, spatio-temporal data mining, GIS, and GeoAI🗺️🤖.
 
-My School Background:
+Academic Background:
 
-**M.S. degree (Pursuing):** Institute of Remote Sensing and Geographic Information Systems, Peking University.
-
-**B.E. degree:** the School of Remote Sensing and Information Engineering, Wuhan University in 2023.
-
-
+- **M.S. degree (in progress)**: Institute of Remote Sensing and Geographic Information Systems, Peking University.
+- **B.E. degree**: School of Remote Sensing and Information Engineering, Wuhan University (2023).
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raymond1030&show_icons=true&theme=radical)
