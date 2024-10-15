@@ -10,8 +10,8 @@ As a passionate GIS enthusiast, my research interests are centered on human mobi
 
 Academic Background:
 
-- **M.S. degree (in progress)**: Institute of Remote Sensing and Geographic Information Systems, Peking University.
-- **B.E. degree**: School of Remote Sensing and Information Engineering, Wuhan University (2023).
+- **M.S. degree (pursuing)**: Institute of Remote Sensing and Geographic Information Systems, Peking University(2023-).
+- **B.E. degree**: School of Remote Sensing and Information Engineering, Wuhan University (2019-2023).
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raymond1030&show_icons=true&theme=radical)
