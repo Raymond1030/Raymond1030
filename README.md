@@ -4,7 +4,7 @@
 
 Welcome to my GitHub repositories!🤩
 
-I’m Choho Lo, also known as Raymond, from Hong Kong, China🇨🇳🇭🇰.
+I’m Cho-Ho Lo, also known as Raymond, from Hong Kong, China🇨🇳🇭🇰.
 
 As a passionate GIS enthusiast, my research interests are centered on human mobility, spatio-temporal data mining, GIS, and GeoAI🗺️🤖.
 
