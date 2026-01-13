@@ -9,7 +9,7 @@ As a passionate GIS enthusiast, my research interests are centered on human mobi
 Academic Background:
 
 - **M.S. degree (pursuing)**: Institute of Remote Sensing and Geographic Information Systems, Peking University(2023-2026), supervised by [Shanjun Mao](https://irsgis.pku.edu.cn/ls/gis1111/msj/index.htm) and [Mei Li](https://www.ues.pku.edu.cn/jszy/lm/lmgrjl/283711df6d174612881a8e10f2128a72.htm).
-- **B.E. degree**: School of Remote Sensing and Information Engineering, Wuhan University (2019-2023), supervised by [Zhipeng Gui](https://jszy.whu.edu.cn/ZhipengGui/zh_CN/).
+- **B.E. degree**: School of Remote Sensing and Information Engineering, Wuhan University (2019-2023), supervised by [Zhipeng Gui](https://jszy.whu.edu.cn/ZhipengGui/zh_CN/) and [Dehua Peng](https://jszy.whu.edu.cn/pengdehua/en/zhym/1607816/list/index.htm).
 
 I also interned at [AntGroup](https://www.antgroup.com/en) on LLM for Trajectory-User Linking(TUL)
 
