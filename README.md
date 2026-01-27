@@ -4,7 +4,8 @@
 
 Welcome to my GitHub repositories!🤩
 
-As a passionate GIS enthusiast, my research interests are centered on human mobility, spatio-temporal data mining and GeoAI🗺️🤖.
+As a passionate GIS enthusiast, 
+my research interests are centered on human mobility, spatio-temporal data mining and GeoAI🗺️🤖.
 
 Academic Background:
 
