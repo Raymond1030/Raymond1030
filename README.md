@@ -15,7 +15,7 @@ Academic Background:
 
 I also interned at [AntGroup](https://www.antgroup.com/en) on LLM for Trajectory-User Linking(TUL)
 
-I will be working as a AI engineer specializing map at [COROS](https://coros.com/) in the 2026.
+I am working as a map engine engineer at [COROS](https://coros.com/) starting from 2026 July.
 
 ![Raymond's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Raymond1030&show_icons=true&theme=radical)
 <!-- 
